@@ -1,0 +1,6 @@
+{
+  "name": "Task Management",
+  "description": "Sebuah aplikasi manajemen tugas sederhana dengan fitur autentikasi, operasi CRUD lengkap, filter kategori/prioritas, dan penyimpanan lokal (localStorage).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
